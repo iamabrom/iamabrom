@@ -2,4 +2,4 @@
 
 💬 Ask me about Identity & Access Management!
 
-Connect with me on <a rel="me" href="https://authn.cc/@abrom">Mastodon</a>
+Connect with me on <a rel="me" href="https://authn.cc/@abrom">:elephant: Mastodon</a>
