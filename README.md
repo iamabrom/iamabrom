@@ -9,7 +9,7 @@ I consider myself to be a results-driven and detail-oriented technology professi
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamabrom?style=social)
 
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabrom&hide=css">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=iamabrom&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabrom&hide=css">
+<img src="https://github-readme-stats.vercel.app/api?username=iamabrom&show_icons=true&count_private=true">
 
 ---
