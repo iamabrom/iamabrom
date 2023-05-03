@@ -10,5 +10,5 @@ I'm a technology professional with over 18+ of experience in the Software Engine
 <a href="https://www.buymeacoffee.com/abrom" target="_blank"> <img src="https://badgen.net/badge/icon/buymeacoffee/yellow?icon=buymeacoffee&label"></a>
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamabrom&show_icons=true&count_private=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabrom&hide=css">
+[comment]: <> (<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamabrom&show_icons=true&count_private=true">)
+[comment]: <> (<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabrom&hide=css">)
