@@ -7,7 +7,6 @@ I'm a technology professional with over 18+ of experience in the Software Engine
 
 <a href="https://authn.cc/@abrom" target="_blank"> <img src="https://badgen.net/badge/icon/Mastodon/purple?icon=mastodon&label"></a>
 <a href="https://twitter.com/iamAbrom" target="_blank"> <img src="https://badgen.net/badge/icon/Twitter?icon=twitter&label"></a>
-<a href="https://www.buymeacoffee.com/abrom" target="_blank"> <img src="https://badgen.net/badge/icon/buymeacoffee/yellow?icon=buymeacoffee&label"></a>
 
 ---
 [comment]: <> (<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamabrom&show_icons=true&count_private=true">)
